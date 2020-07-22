@@ -26,7 +26,9 @@
 
 ## 问题:
   1. 私密需要付费？为什么我直接创建了一个私密仓库？
+     **改版后private免费了**
   2. 如何创建文件夹？
+     **新建文件时自己加一层路径**
   3. 如果上一次pull request在所有者接受前，你再进行pull request会如何？
       **在本次pull request结束前，不能再次pull request，但是你在提交pull request之后的所有修改都会与这次请求同步**
   4. 如何查看文件的extended description
