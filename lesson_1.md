@@ -1,20 +1,20 @@
 github 三大功能：
 
-1.repository
+1. repository
   一个项目一个仓库
 
 
-2.star
+2. star
   收藏，并且可以跟踪项目发展状态
   
 
-3.fork
+3. fork
   自己的账户下会自动出现别人的仓库，并且会有来源标识
   
-4.watch
+4. watch
   有点像订阅功能，在这里，是指你star了的仓库发生修改会同通过这个功能通知你
   
-5.issue
+5. issue
   对需要改动的地方的讨论
    谁和谁之间的讨论？
   
