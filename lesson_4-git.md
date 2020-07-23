@@ -8,3 +8,4 @@
 * git add file_dir
 * git commit -m "评论"
 * 一个可有可无的修改
+* 被fork后，更改此处，同时也更改fork版本，使得版本冲突，看会发生什么
