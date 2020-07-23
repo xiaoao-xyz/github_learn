@@ -7,3 +7,4 @@
 * git status
 * git add file_dir
 * git commit -m "评论"
+* 一个可有可无的修改
