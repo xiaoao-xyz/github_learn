@@ -3,28 +3,29 @@
 #### 分支
 1. 查看分支
 
-        'git branch'
+`git branch`
+        
         加 -a 可以查看远程代码分支
     
     
 2. 创建分支并转到
 
-        'git checkout -b branchname'
+`git checkout -b branchname`
     
         相当于 
     
-        'git branch branchname'
+`git branch branchname`
     
-        'git checkout branchname'
+`git checkout branchname`
     
 
  3. 提交到远程
  
-        'git push origin branchname'
+`git push origin branchname`
         
         如果远程仓库没有branchname会自动创建一个
         
-        'git push origin branchname:master'
+`git push origin branchname:master`
         
         提交到制定分支,如master
         
@@ -42,33 +43,33 @@
 #### 回滚
 1. 查看版本号
 
-        'git log'
+`git log`
     
         按q退出
       
 2. 切换到历史版本
 
-        'git reset --hard commit_id'
+`git reset --hard commit_id`
         
         退回到上一个版本
         
-        'git reset --hard HEAD^'
+`git reset --hard HEAD^`
         
         上上一个版本
         
-        'git reset --hard HEAD^^'
+`git reset --hard HEAD^^`
        
 3. 工作区修改了并且还没有提交情况下的恢复
 
-        'git checkout -- file'
+`git checkout -- file`
         
 4. 提交到了缓存区的恢复
         
-        'git reset HEAD file'
-        'git checkout -- file'
+  `git reset HEAD file`
+`git checkout -- file`
         
         第一步可不可以用(应该可以)
-        'git rm --cached .'
+`git rm --cached .`
         
  
         
