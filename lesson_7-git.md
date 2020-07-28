@@ -90,6 +90,8 @@
 
 参考:[详解git pull和git fetch的区别]{https://blog.csdn.net/weixin_41975655/article/details/82887273?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159592364819724839219827%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159592364819724839219827&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v25-1-82887273.first_rank_v2_rank_v25&utm_term=pull+fetch&spm=1018.2118.3001.4187}
 
+[详解]{https://blog.csdn.net/qq_36113598/article/details/78906882?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param}
+
 
 4. 冲突的处理
         
