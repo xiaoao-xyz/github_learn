@@ -39,7 +39,41 @@
         详情参看
         https://blog.csdn.net/biqioso/article/details/81140711?utm_source=blogxgwz6&spm=1018.2118.3001.4187
         
- 
+
+#### 标签
+1. 打上标签
+
+`git tag -a tagname -m "msg" commit_id`
+                        
+        其中commit_id如果省略表示标记当前分支
+        
+        这个标签可以被校验，可以轻量化为
+        
+`git tag tagname commit_id`
+
+        创建时添加标签
+`git checkout -b branchname tagname`
+        
+2. 推送到远程仓库
+
+`git push origin tagname`
+                
+         一次性推出
+           
+`git push origin --tags`
+
+3. 删除标签
+
+`git tag -d tagname`
+
+        远程删除
+      
+`git push origin :refs/tags/tagname`
+
+
+
+
+
 #### 回滚
 1. 查看版本号
 
