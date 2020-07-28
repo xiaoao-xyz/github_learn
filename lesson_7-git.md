@@ -35,8 +35,8 @@
           git rebase --skip
           
    示意图
-[](https://img-my.csdn.net/uploads/201206/14/1339683149_4793.jpg)
-[](https://img-my.csdn.net/uploads/201206/14/1339683149_4793.jpg)
+![rebase](https://img-my.csdn.net/uploads/201206/14/1339683149_4793.jpg)
+![merge](https://img-my.csdn.net/uploads/201206/14/1339683149_4793.jpg)
 
   
    [详情参看](https://blog.csdn.net/iteye_4921/article/details/82639094?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param)
