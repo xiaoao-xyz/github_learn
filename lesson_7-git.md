@@ -19,6 +19,7 @@
 
 #### 问题:
   1. rebase的意义在哪？
+          根据上面的描述，分支的版本会
   2. rebase的冲突理应也存在
             
           是的，处理完冲突后
@@ -30,11 +31,17 @@
           git rebase --abort
           
           直接用branch_name代替
+          
           git rebase --skip
           
+   示意图
+[](https://img-my.csdn.net/uploads/201206/14/1339683149_4793.jpg)
+[](https://img-my.csdn.net/uploads/201206/14/1339683149_4793.jpg)
 
   
    [详情参看](https://blog.csdn.net/iteye_4921/article/details/82639094?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param)
+   
+   [还有](https://blog.csdn.net/tanga842428/article/details/53155860?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159592071019725211954866%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159592071019725211954866&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~pc_rank_v2-2-53155860.first_rank_ecpm_v3_pc_rank_v2&utm_term=rebase+%E7%9A%84%E6%84%8F%E4%B9%89&spm=1018.2118.3001.4187)
   
 2. 暂存
 
@@ -44,6 +51,11 @@
         想删掉一段代码又担心以后需要查看它
         
         想保存它但又不想增加一个脏的提交
+        
+3. pull与fetch的区别
+
+
+4. 冲突的处理
         
 
        
