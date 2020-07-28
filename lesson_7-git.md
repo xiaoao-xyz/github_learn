@@ -1,4 +1,4 @@
-### the rest point
+### Merge and stash
 
 1. 合并
 
@@ -93,7 +93,7 @@
 [详解]{https://blog.csdn.net/qq_36113598/article/details/78906882?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param}
 
 
-4. 冲突的处理
+
         
 
        
