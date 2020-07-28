@@ -67,7 +67,8 @@
 4. 提交到了缓存区的恢复
         
   `git reset HEAD filename`
-`git checkout filename`
+  
+  `git checkout filename`
 **如果缓存区存在修改了的对应的文件，那么是从缓存区恢复这个文件的版本**
         
         第一步可不可以用(应该可以)
